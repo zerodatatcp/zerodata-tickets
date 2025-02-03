@@ -1,0 +1,53 @@
+{
+    "MODEL": "gemini-pro",
+    "API_KEY": "api key de geminipro",
+    "CATEGORY_IDS": [
+      "1231231231123123123",
+      "1231231231123123123",
+      "1231231231123123123",
+      "1231231231123123123",
+      "1231231231123123123",
+      "1231231231123123123",
+      "1231231231123123123"
+    ],
+    "logChannelId": "1231231231123123123",
+    "token": "TU TOKEN",
+    "botId": "ID DEL BOT",
+    "guildId": "ID DEL SERVIDOR",
+    "prefix": "!",
+    "status": "Lorem Ipsum",
+    "url_status": "https://discord.gg/hacienda",
+    "mongoUrl": "TU MONGO URL",
+    "AdminRoles": ["1231231231123123123"],
+    "logs_temproles": "1231231231123123123",
+    "rolStaff": "1231231231123123123",
+    "rolVerificado": "1231231231123123123",
+    "colorMain": "#000000",
+    "voice_channel": "1231231231123123123",
+    "welcome_channel": "1231231231123123123",
+    "welcome_logs": "1231231231123123123",
+    "transcript_logs": "1231231231123123123",
+    "logs": "1231231231123123123",
+    "imagenPanel": "https://i.ibb.co/1231231231123123123/1231231231123123123.png",
+    "tickets": {
+      "Soporte": {
+        "categoria": "1231231231123123123",
+        "rol": "1231231231123123123",
+        "emoji_canal": "⭐",
+        "emoji_dropdown": "⭐"
+      },
+      "Comprar": {
+        "categoria": "1231231231123123123",
+        "rol": "1231231231123123123",
+        "emoji_canal": "⭐",
+        "emoji_dropdown": "⭐"
+      },
+      "Otros": {
+        "categoria": "1231231231123123123",
+        "rol": "1231231231123123123",
+        "emoji_canal": "⭐",
+        "emoji_dropdown": "⭐"
+      }
+    }
+  }
+  
